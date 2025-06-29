@@ -12,6 +12,13 @@ A beginner-friendly web project to mark and view student attendance using basic 
 
 ## How to View
 1. Open each `.html` file in your browser directly.
-2. (Backend integration will be added on Day 2)
+2. (Backend integration will be added on week 2)
 
 ## Folder Structure
+
+student-attendance-system/
+├── templates/
+│ ├── login.html
+│ └── dashboard.html
+├── static/css/
+├── README.md
