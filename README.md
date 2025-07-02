@@ -28,6 +28,8 @@ A beginner-friendly web project to mark and view student attendance using basic 
 ## Pages Created
 - `login.html`: Teacher login page
 - `dashboard.html`: Page to mark attendance
+- *add_students :page to add student
+  
 
 ## How to View
 1. Open each `.html` file in your browser directly.
